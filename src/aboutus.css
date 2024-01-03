@@ -1,0 +1,113 @@
+.home-img {
+    position: absolute;
+  }
+  
+  .logo{
+      position: absolute;
+  }
+
+  .team{
+    position: absolute;
+}
+
+.team1{
+    position: absolute;
+}
+
+  .hh3 {
+    color: rgb(211, 116, 79);
+    font-size: 35px;
+  
+    position: absolute;
+  
+    top: 50%;
+  
+    left: 2%;
+  
+    font-weight: 510;
+  
+    font-family: papyrus;
+  }
+
+  .hh4 {
+    color: black;
+  
+    font-size: 18px;
+  
+    position: absolute;
+  
+    top: 55%;
+  
+    left:2%;
+  
+    font-weight: 610;
+  
+    font-family: Arial,  Helvetica,  sans-serif;
+  }
+
+  .hh5 {
+    color: rgb(211, 116, 79);
+    font-size: 29px;
+  
+    position: absolute;
+  
+    top: 90%;
+  
+    left: 40%;
+  
+    font-weight: 510;
+  
+    font-family: papyrus;
+  }
+
+  .hh6 {
+    color: black;
+  
+    font-size: 38px;
+  
+    position: absolute;
+  
+    top: 95%;
+  
+    left:40%;
+  
+    font-weight: 610;
+  
+    font-family:Lucida Console,   Monospace;
+  }
+
+  .hh7 {
+    color: rgb(211, 116, 79);
+    font-size: 35px;
+  
+    position: absolute;
+  
+    top: 170%;
+  
+    left: 2%;
+  
+    font-weight: 510;
+  
+    font-family: papyrus;
+  }
+
+  .hh8 {
+    color: black;
+  
+    font-size: 18px;
+  
+    position: absolute;
+  
+    top: 175%;
+  
+    left:2%;
+  
+    font-weight: 610;
+  
+    font-family: Arial,  Helvetica,  sans-serif;
+  }
+
+  .body1 {
+    background-color:#008B8B;
+    opacity: 1;
+  }
